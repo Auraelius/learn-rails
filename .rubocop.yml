@@ -1,0 +1,11 @@
+Style/Encoding:
+  Enabled: false
+
+Lint/UselessAssignment:
+  Enabled: false
+
+Style/EmptyLinesAroundClassBody:
+  EnforcedStyle: empty_lines
+
+AllCops:
+  RunRailsCops: true
